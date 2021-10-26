@@ -1,8 +1,8 @@
 # Komponent-do-programu-OBS
 Skrypt stworzony na potrzeby Fundacji OKO-LICE Kultury z którą wspólnie zrealizowaliśmy serie streamów dotyczących Kociewia:
-1.https://www.youtube.com/watch?v=NdTE2sIOOR0&t=1s&ab_channel=DziedzictwoKociewia
-2.https://www.youtube.com/watch?v=2CF1JKiedqc&ab_channel=DziedzictwoKociewia
-3.https://www.youtube.com/watch?v=dXo7TJ_SVKo&t=1663s&ab_channel=DziedzictwoKociewia
+-https://www.youtube.com/watch?v=NdTE2sIOOR0&t=1s&ab_channel=DziedzictwoKociewia
+-https://www.youtube.com/watch?v=2CF1JKiedqc&ab_channel=DziedzictwoKociewia
+-https://www.youtube.com/watch?v=dXo7TJ_SVKo&t=1663s&ab_channel=DziedzictwoKociewia
 
 # Zakres pracy:
 - wykorzystanie rozwiązań, które są proste do implementacji
