@@ -4,6 +4,7 @@ The script was created for the needs of the OKO-LICE Kultury Foundation with whi
 2. https://youtu.be/2CF1JKiedqc
 3. https://youtu.be/dXo7TJ_SVKo
 
+I was responsible for stream maintenance, configuration and all necessary tasks related to audio and video processing
 # Requirements:
 - easy to implement;
 - creating a clock that counts down the time specified by the user;
